@@ -1,2 +1,3 @@
 this file is for learning github. v1.0
 adding new feature
+adding third details
